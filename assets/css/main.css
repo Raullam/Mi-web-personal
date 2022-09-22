@@ -2247,7 +2247,7 @@ input, select, textarea {
 /* Copyright */
 
 	#copyright {
-		color: #666;
+		color: rgb(227, 225, 225);
 		font-size: 1em;
 		line-height: 1em;
 		list-style: none;
